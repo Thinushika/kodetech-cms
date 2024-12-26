@@ -9,6 +9,7 @@ import clients from './clients'
 import knowledgeCenter from './knowledgeCenter'
 import caseStudies from './caseStudies'
 import coreValues from './coreValues'
+import services from './services'
 
 export const schemaTypes = [
   post,
@@ -22,4 +23,5 @@ export const schemaTypes = [
   knowledgeCenter,
   caseStudies,
   coreValues,
+  services
 ]
